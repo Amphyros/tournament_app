@@ -1,0 +1,23 @@
+h1, h2, h3, h4, h5, h6, p, a {
+    margin: 0;
+    font-size: 20px;
+}
+
+.home-banner-container {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.home-banner-container img {
+    width: 100%;
+}
+
+.home-text-container {
+    width: 80%;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.home-text-container {
+    font-size: 2rem;
+}
